@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\Aleksandr\source\repos\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\jenje\Desktop\projects\Battleship\Battleship\obj\Debug\Battleship.pdb
